@@ -1,0 +1,23 @@
+Welcome:
+  change-interval: 400
+  texts:
+    - "&b&lRede GodHeim"
+    - "&b&lRede GodHeim"
+    - "&b&lRede GodHeim"
+    - "&b&lRede GodHeim"
+    - "&f&lRede GodHeim"
+    - "&f&lRede GodHeim"
+    - "&f&lRede GodHeim"
+    - "&f&lRede GodHeim"
+    - "&6&lRede GodHeim"
+    - "&6&lRede GodHeim"
+    - "&6&lRede GodHeim"
+    - "&6&lRede GodHeim"
+data:
+  change-interval: 100
+  texts:
+    - '&b[%date%]'
+hora:
+  change-interval: 100
+  texts:
+    - '&b%time%'
