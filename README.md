@@ -14,15 +14,16 @@
 - Depois, clique em `Machine type` e selecione a última opção.
 
 4. Crie uma conta no [Ngrok](https://dashboard.ngrok.com/signup).
-- Em seguida, clique em `Your Authtoken` e depois em `Copy`.
+- Clique em `Setup & Installation` em Agents selecione Linux.
 
 5. Abra seu Codespace. 
 - Clique em `Terminal` ou `Ctrl + J`.
-- Digite `./ngrok authtoken seutoken` e pressione enter.
+- Em Apt copie o seguinte comando de instalação do ngrok e pressione enter.
+- Em seguida copie o seguinte comando para adicionar seu authtoken e pressione enter.
 - Passe o mouse em cima do arquivo ngrok.yml e abra ele `Ctrl + Clique`.
 - Logo abaixo de `authtoken`, abra uma linha e cole isso `region: sa`.
-- Agora feche o arquivo e volte no Terminal.
-- Execute o comando `./ngrok tcp 25565`.
+- Agora aperte `Ctrl + S` para salvar o arquivo, logo em seguida feche o arquivo e volte para o Terminal.
+- Execute o comando `ngrok tcp 25565`.
 - Copie o ip fornecido em `Forwarding`.
 - Pressione as teclas `Ctrl + Shift + '` para abrir um novo bash.
 - Agora digite o seguinte comando; `./start.sh`.
