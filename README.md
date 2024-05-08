@@ -18,11 +18,11 @@
 
 5. Abra seu Codespace. 
 - Clique em `Terminal` ou `Ctrl + J`.
-- Digite `ngrok authtoken seutoken` e pressione enter.
+- Digite `./ngrok authtoken seutoken` e pressione enter.
 - Passe o mouse em cima do arquivo ngrok.yml e abra ele `Ctrl + Clique`.
 - Logo abaixo de `authtoken`, abra uma linha e cole isso `region: sa`.
 - Agora feche o arquivo e volte no Terminal.
-- Execute o comando `ngrok tcp 25565`.
+- Execute o comando `./ngrok tcp 25565`.
 - Copie o ip fornecido em `Forwarding`.
 - Pressione as teclas `Ctrl + Shift + '` para abrir um novo bash.
 - Agora digite o seguinte comando; `./start.sh`.
