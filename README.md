@@ -29,6 +29,10 @@
 
 # Dúvidas
 
+#### Qual launcher de Minecraft você recomenda?
+
+- [Sklauncher](https://skmedix.pl/downloads)
+
 #### Posso jogar em Multiplayer?
 
 - Sim, o servidor suporta jogabilidade multiplayer.
