@@ -1,4 +1,4 @@
-![image](https://github.com/tothpng/minecraft/assets/110638776/9e536882-6e0a-4027-8ee4-072a83a0d770)# Hospedando Minecraft com o GitHub
+# Hospedando Minecraft com o GitHub
 
 #### Instalação
 
