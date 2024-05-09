@@ -1,4 +1,4 @@
-# Hospedando Minecraft com o GitHub
+![image](https://github.com/tothpng/minecraft/assets/110638776/9e536882-6e0a-4027-8ee4-072a83a0d770)# Hospedando Minecraft com o GitHub
 
 #### Instalação
 
@@ -29,6 +29,10 @@
 - Agora digite o seguinte comando; `./start.sh`.
 
 # Dúvidas
+
+#### Como evitar o banimento no GitHub?
+
+- Ativando a [Autenticação de dois fatores](https://github.com/settings/two_factor_authentication/setup/intro).
 
 #### Qual launcher de Minecraft você recomenda?
 
