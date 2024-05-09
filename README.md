@@ -51,7 +51,7 @@
 #### Onde posso baixar as versões informadas?
 
 - [Vanilla](https://mcversions.net/)
-- [Forge]([https://files.minecraftforge.net/net/minecraftforge/forge/](https://mohistmc.com/downloads))
+- [Forge](https://mohistmc.com/downloads)
 - [Fabric](https://fabricmc.net/use/server/)
 - [Bukkit/Spigot](https://papermc.io/downloads/paper)
 
